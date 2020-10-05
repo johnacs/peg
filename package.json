@@ -1,0 +1,16 @@
+{
+	"name": "peg",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"async": "^3.2.0",
+		"axios": "^0.20.0"
+	}
+}
