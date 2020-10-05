@@ -11,7 +11,9 @@ npm install
 
 In the project directory, you can run:
 
-### `npm start`
+```
+npm start
+```
 
 ## Author
 * **John Ang** - [find me on Github](https://github.com/johnacs)
